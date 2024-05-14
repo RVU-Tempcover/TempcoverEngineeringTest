@@ -8,7 +8,7 @@
 5. [Running the Application](#running-the-application)
 
 ## Introduction
-Welcome to the Tempcover tEngineering Exercise. This test will involve using C#, React, DotNet 7.0, and AspNet Core. We have 3 main directories for you to be aware of:
+Welcome to the Tempcover Engineering Exercise. This test will involve using C#, React, DotNet 7.0, and AspNet Core. We have 3 main directories for you to be aware of:
 
 - **Tempcover.Client**: This is a React app built using Vite.
 - **Tempcover.API**: This is a .Net 7 Web API.
